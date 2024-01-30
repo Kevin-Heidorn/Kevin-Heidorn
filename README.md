@@ -1,5 +1,6 @@
 
 ### Hi!I am Kevin Heidorn 
+I'm a Computer Science student at the University of Salvador (Bahia), I've also been passionate about programming and technology
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
