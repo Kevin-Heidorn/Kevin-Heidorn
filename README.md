@@ -11,7 +11,7 @@ Meu nome é Kevin Heidorn e estou ingressando no mundo do desenvolvimento de sof
 
 <div align=center>
   <h2>Repositorios em Destaque</h2>
-  <a href="https://github.com/Kevin-Heidorn/Analise-de-Dados-UFBA-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Heidorn&&theme=github_dark&repo=Data-analytics">
+  <a href="https://github.com/Kevin-Heidorn/Analise-de-Dados-UFBA-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Heidorn&&theme=github_dark&repo=https://github.com/Kevin-Heidorn/Analise-de-Dados-UFBA-">
   <a href="https://github.com/arthur-cristo-silva/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Heidorn&&theme=github_dark&repo=Gas-Calculator">
 </div>
     
