@@ -1,23 +1,23 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a1172&text=Olá%20Mundo!%20👋&reversal=false&fontColor=ffffff&fontSize=50&animation=fadeIn">
 
-### Hi!I am Kevin Heidorn 
-I'm a Computer Science student at the University of Salvador (Bahia), I've also been passionate about programming and technology
+<p align=center>
+Meu nome é Kevin Heidorn e estou ingressando no mundo do desenvolvimento de software, tendo um interesse especial na área de back-end. Estou cursando Ciêncida da Computação na UNIFACS, e, estou à procura de um estágio para aprimorar ainda mais meus conhecimentos.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+<h2></h2>
+<div align=center>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh0bjBxbGd2OHc5dmEzajg4dnFrNjd5OGU0MTZhZmxoODA3cDlhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+</div>  
 
+<div align=center>
+  <h2>Repositorios em Destaque</h2>
+  <a href="https://github.com/arthur-cristo-silva/university-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=university-crud">
+  <a href="https://github.com/arthur-cristo-silva/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=Gas-Calculator">
 </div>
-  
-  ##
- 
-<div> 
-
-  <a href="https://instagram.com/kevin_Heidorn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "kevinheidorn20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kevin-heidorn-b84397269/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    
+<div align = center>
+  <h2>Github Status</h2>
+  <a href="https://github.com/arthur-cristo-silva">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo-silva&show_icons=true&theme=github_dark">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo-silva&show_icons=true&theme=github_dark&layout=compact"</a>
 </div>
